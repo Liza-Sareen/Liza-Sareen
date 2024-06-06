@@ -14,7 +14,7 @@ Hi, I'm Liza Sareen!
 </p>
 <br/>
 <p align="center">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=&emsp;&emsp;Budding+Software+Engineer%2C+TIET26%2C;&emsp;DS%2CDSA%2CML%2FDL+Enthusiast;Giving+My+Best+To+The+Society" alt="Typing SVG" /></a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=&emsp;&emsp;Budding+Software+Engineer%2C+TIET26%2C;&emsp;&emsp;&emsp;DS%2CDSA%2CML%2FDL+Enthusiast;Giving+My+Best+To+The+Society" alt="Typing SVG" /></a>
 </p>
 <hr>
 <pre>
