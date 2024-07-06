@@ -41,6 +41,8 @@ Hi, I'm Liza Sareen!
 
 <p>
     <a href="https://github.com/Liza-Sareen"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+    <a href="https://github.com/Liza-Sareen"><img alt="C" src="https://img.shields.io/badge/%20-%2314354C.svg?logo=C&logoColor=white"></a>
+<a href="https://github.com/Liza-Sareen"><img alt="Cpp" src="https://img.shields.io/badge/Cpp%20-%2314354C.svg?logo=C++&logoColor=white"></a>
 
 ### 🧰 Frameworks and Libraries
 
