@@ -19,10 +19,9 @@ Hi, I'm Liza Sareen!
 </p>
 <hr>
 <pre>
-💻 I am a Machine Learning & Frontend Developer
+💻 I am a Frontend Developer
 📚 Currently doing B-Tech in Electrical and Computer Engineering from TIET 
-📝 I have a strong interest in Data Science 
-🔭 Working on Deep Learning & Machine Learning
+📝 I have a strong interest in Problem Solving 
 🌟 Main languages: Python and Web
 </pre>
 <hr>
